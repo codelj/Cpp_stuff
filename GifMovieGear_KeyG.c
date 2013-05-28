@@ -1,4 +1,6 @@
 /*
+*@comment : for SW GifMovieGear, to generate a product key 
+*
 *Author: L.J
 *Date: April.1st , 2012
 *eMail: lei.jianray@gmail.com
